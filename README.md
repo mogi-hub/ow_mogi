@@ -50,3 +50,4 @@ npm run dev                  # http://localhost:3000
 - RESET ALL RESPONSES
 저장하면 모든 친구 화면에 새로고침 없이 바로 반영됩니다.
 ※ 기존에 supabase.sql 을 이미 실행했다면 파일 맨 아래 `secrets` 부분만 추가로 실행하세요.
+ㄱ
